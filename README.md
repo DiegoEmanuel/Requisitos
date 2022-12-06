@@ -1,13 +1,12 @@
 # Requisitos
 requisitos ATSWEB
 Requisitos do sistema do navegador Chrome
-Seu computador precisa atender aos requisitos mínimos do sistema para você instalar e usar o navegador Chrome.
+Seu computador precisa atender aos requisitos mínimos do sistema para você instalar e usar sistema ATS WEB.
 
-É possível instalar o Chrome em outras plataformas ou versões não listadas aqui. No entanto, o suporte de nível corporativo do Google está limitado aos sistemas que atendem aos requisitos mínimos. O Google não vai oferecer suporte se você instalar o Chrome em um sistema que não atenda aos critérios especificados.
+É necessário e imprescindível uma conexão com a internet de qualidade. O suporte está limitado aos sistemas que atendem aos requisitos mínimos.
 
 Windows
 Importante: o Chrome estendeu a compatibilidade com o Windows 7 até 15 de janeiro de 2023 para atualizações críticas para a segurança e a estabilidade.
-Requisitos para usar o navegador Chrome no Windows:
 
 Windows 7, Windows 8, Windows 8.1, Windows 10 ou mais recente
 Processador Intel Pentium 4 ou mais recente compatível com SSE3
