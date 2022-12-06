@@ -33,5 +33,7 @@ Requisitos para usar o navegador Chrome no Android:
 Android:
 ```
 Android 7.0 Nougat
-Google e marcas e logotipos relacionados são marcas registradas da Google LLC. Todos os outros nomes de empresas e produtos são marcas registradas das empresas às quais eles estão associados.
+Google e marcas e logotipos relacionados são marcas registradas da Google LLC. 
+Todos os outros nomes de empresas e produtos são marcas registradas 
+das empresas às quais eles estão associados.
 ```
