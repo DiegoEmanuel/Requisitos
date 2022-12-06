@@ -26,10 +26,13 @@ macOS High Sierra 10.13 ou mais recentes
 Linux
 Requisitos para usar o navegador Chrome no Linux:
 ```
+```
 Ubuntu 18.04+ de 64 bits, Debian 10+, openSUSE 15.2+ ou Fedora Linux 32+
 Processador Intel Pentium 4 ou mais recente compatível com SSE3
 Android
 Requisitos para usar o navegador Chrome no Android:
-
+```
+```
 Android 7.0 Nougat
 Google e marcas e logotipos relacionados são marcas registradas da Google LLC. Todos os outros nomes de empresas e produtos são marcas registradas das empresas às quais eles estão associados.
+```
