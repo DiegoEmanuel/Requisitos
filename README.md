@@ -1,4 +1,5 @@
 # Requisitos
+
 requisitos ATSWEB
 Requisitos do sistema do navegador Chrome
 Seu computador precisa atender aos requisitos mínimos do sistema para você instalar e usar sistema ATS WEB.
@@ -7,17 +8,25 @@ Seu computador precisa atender aos requisitos mínimos do sistema para você ins
 
 Windows
 Importante: o Chrome estendeu a compatibilidade com o Windows 7 até 15 de janeiro de 2023 para atualizações críticas para a segurança e a estabilidade.
-
+```
+npm install
+```
+```
 Windows 7, Windows 8, Windows 8.1, Windows 10 ou mais recente
 Processador Intel Pentium 4 ou mais recente compatível com SSE3
 Observação: os servidores exigem o Windows Server 2008 R2, o Windows Server 2012, o Windows Server 2012 R2 ou o Windows Server 2016.
+```
+__
+```
 Mac
-Requisitos para usar o navegador Chrome no Mac:
-
+Requisitos para usar o ATS no Mac:
+```
+__
+```
 macOS High Sierra 10.13 ou mais recentes
 Linux
 Requisitos para usar o navegador Chrome no Linux:
-
+```
 Ubuntu 18.04+ de 64 bits, Debian 10+, openSUSE 15.2+ ou Fedora Linux 32+
 Processador Intel Pentium 4 ou mais recente compatível com SSE3
 Android
