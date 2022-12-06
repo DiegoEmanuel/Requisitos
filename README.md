@@ -8,13 +8,12 @@ Seu computador precisa atender aos requisitos mínimos do sistema para você ins
 
 Windows
 Importante: o Chrome estendeu a compatibilidade com o Windows 7 até 15 de janeiro de 2023 para atualizações críticas para a segurança e a estabilidade.
-```
-npm install
-```
+
 ```
 Windows 7, Windows 8, Windows 8.1, Windows 10 ou mais recente
 Processador Intel Pentium 4 ou mais recente compatível com SSE3
-Observação: os servidores exigem o Windows Server 2008 R2, o Windows Server 2012, o Windows Server 2012 R2 ou o Windows Server 2016.
+Observação: os servidores exigem o Windows Server 2008 R2, o Windows Server 2012, 
+o Windows Server 2012 R2 ou o Windows Server 2016.
 ```
 __
 ```
