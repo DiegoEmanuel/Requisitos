@@ -4,6 +4,14 @@ requisitos ATSWEB
 Requisitos do sistema do navegador Chrome
 Seu computador precisa atender aos requisitos mínimos do sistema para você instalar e usar sistema ATS WEB.
 
+Quais navegadores da Web são compatíveis com o Flutter?
+Os aplicativos da web do Flutter podem ser executados nos seguintes navegadores:
+
+Chrome (móvel e computador)
+Safari (móvel e computador)
+Edge (móvel e desktop)
+Firefox (móvel e desktop)
+
 É necessário e imprescindível uma conexão com a internet de qualidade. O suporte está limitado aos sistemas que atendem aos requisitos mínimos.
 
 Quais navegadores da Web são compatíveis com o Flutter?
