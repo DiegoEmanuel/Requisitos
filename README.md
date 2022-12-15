@@ -19,9 +19,8 @@ Requisitos para usar o ATS no Mac:
 ```
 macOS High Sierra 10.13 ou mais recentes
 Linux
-Requisitos para usar o ATS no Linux:
 ```
-Requisitos para usar o ATS no Ubuntu:
+Requisitos para usar o ATS no Linux(Ubuntu):
 ```
 Ubuntu 18.04+ de 64 bits, Debian 10+, openSUSE 15.2+ ou Fedora Linux 32+
 Processador Intel Pentium 4 ou mais recente compatível com SSE3
